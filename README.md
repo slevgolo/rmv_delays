@@ -1,1 +1,1 @@
-# rmv_delays
+The goal of this project is a functional program that outputs the delays of buses, streetcars and trains at selected stops. For this the API of RMV ( https://opendata.rmv.de/site/start.html ) is used. Individual display boards were created and these are queried in the program using a get-request.
